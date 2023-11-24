@@ -1,0 +1,83 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 CourierNewPSMT;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red205\green173\blue106;\red24\green24\blue24;\red193\green193\blue193;
+\red140\green211\blue254;\red194\green126\blue101;\red25\green25\blue25;\red167\green197\blue152;}
+{\*\expandedcolortbl;;\cssrgb\c84314\c72941\c49020;\cssrgb\c12157\c12157\c12157;\cssrgb\c80000\c80000\c80000;
+\cssrgb\c61176\c86275\c99608;\cssrgb\c80784\c56863\c47059;\cssrgb\c12941\c12941\c12941;\cssrgb\c70980\c80784\c65882;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs22 \cf2 \cb3 \expnd0\expndtw0\kerning0
+h2\cf4 \{ \cf5 background-color\cf4 :\cf6 #161617CC\cf4 ;
+\f1\fs24 \cf7 \cb1 \
+
+\f0\fs22 \cf4 \cb3 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \cf5 color\cf4 :\cf6 #f5f5f7\cf4 ;
+\f1\fs24 \cf7 \cb1 \
+
+\f0\fs22 \cf4 \cb3 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \cf5 padding-top\cf4 : \cf8 5px\cf4 ;
+\f1\fs24 \cf7 \cb1 \
+
+\f0\fs22 \cf4 \cb3 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \cf5 padding-left\cf4 : \cf8 10px\cf4 ;
+\f1\fs24 \cf7 \cb1 \
+
+\f0\fs22 \cf4 \cb3 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \}
+\f1\fs24 \cf7 \cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs22 \cf4 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 .exp\cf4 \{\cf5 text-indent\cf4 :\cf8 50px
+\f1\fs24 \cf7 \cb1 \
+
+\f0\fs22 \cf4 \cb3 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \}
+\f1\fs24 \cf7 \cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs22 \cf4 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 #email\cf4 \{ \cf5 text-decoration\cf4 :\cf6 underline\cf4 ;
+\f1\fs24 \cf7 \cb1 \
+
+\f0\fs22 \cf4 \cb3 \'a0 \'a0 \'a0 \'a0 \cf5 font-style\cf4 :\cf6 italic\cf4 ;
+\f1\fs24 \cf7 \cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs22 \cf4 \
+\pard\pardeftab720\partightenfactor0
+\cf4 \cb3 \'a0 \'a0 \'a0 \'a0 \'a0 \'a0 \}
+\f1\fs24 \cf7 \cb1 \
+
+\f0\fs22 \cf2 \cb3 Body\cf4 \{
+\f1\fs24 \cf7 \cb1 \
+
+\f0\fs22 \cf4 \cb3 \'a0 \'a0 \cf5 font-family\cf4 : \cf6 system-ui\cf4 , -apple-system, BlinkMacSystemFont, \cf6 'Segoe UI'\cf4 , Roboto, Oxygen, Ubuntu, Cantarell, \cf6 'Open Sans'\cf4 , \cf6 'Helvetica Neue'\cf4 , \cf6 sans-serif\cf4 ;
+\f1\fs24 \cf7 \cb1 \
+
+\f0\fs22 \cf4 \cb3 \'a0 \'a0 \cf5 width\cf4 : \cf8 940px\cf4 ;
+\f1\fs24 \cf7 \cb1 \
+
+\f0\fs22 \cf4 \cb3 \'a0 \'a0 \cf5 margin-right\cf4 : \cf6 auto\cf4 ;
+\f1\fs24 \cf7 \cb1 \
+
+\f0\fs22 \cf4 \cb3 \'a0 \'a0 \cf5 margin-left\cf4 : \cf6 auto\cf4 ;
+\f1\fs24 \cf7 \cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs22 \cf4 \
+\pard\pardeftab720\partightenfactor0
+\cf4 \cb3 \}
+\f1\fs24 \cf7 \cb1 \
+
+\f0\fs22 \cf2 \cb3 #cabecalho\cf4 \{
+\f1\fs24 \cf7 \cb1 \
+
+\f0\fs22 \cf4 \cb3 \'a0 \'a0 \cf5 text-align\cf4 : \cf6 center\cf4 ;
+\f1\fs24 \cf7 \cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs22 \cf4 \
+\pard\pardeftab720\partightenfactor0
+\cf4 \cb3 \}
+\f1\fs24 \cf7 \cb1 \
+}
