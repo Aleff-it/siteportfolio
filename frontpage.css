@@ -17,7 +17,7 @@ body {
 
 }
 .conteudo {
-    padding: 8% 15%;
+    padding: 5% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -31,9 +31,25 @@ body {
 
 }
 
+.cabecalho {
+    padding: 2% 0% 0% 15%;
+}
+
+.cabecalho-menu {
+    display: flex;
+    gap: 80px;
+}
+
 .conteudo-apresentacao-titulo {
     font-size: 36px;
     font-family: 'Krona One', sans-serif;
+}
+
+.cabecalho-menu-link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: #22D4FD;
 }
 
 .conteudo-apresentacao-texto {
