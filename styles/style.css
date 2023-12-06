@@ -47,6 +47,18 @@ body {
     
 }
 
+.conteudo-apresentacao-titulo2 {
+    font-size: 30px;
+    font-family: 'Krona One', sans-serif;
+    
+}
+
+.conteudo-apresentacao-titulo3 {
+    font-size: 27px;
+    font-family: 'Krona One', sans-serif;
+    
+}
+
 .cabecalho-menu-link {
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
