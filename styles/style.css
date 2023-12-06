@@ -33,6 +33,12 @@ body {
 }
 
 .cabecalho {
+    color: #F6F6F6;
+    background-color: #004d8e;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
     padding: 2% 0% 0% 15%;
 }
 
@@ -113,7 +119,7 @@ body {
 }
 
 .rodape {
-    color: black;
+    color: #F6F6F6;
     background-color: #004d8e;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
