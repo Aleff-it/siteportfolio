@@ -9,11 +9,11 @@
 body {
     /* height: 100vh; */
     box-sizing: border-box;
-    background-color: black;
+    background-color: #901900;
     color: aliceblue;
 }
 .titulo-destaque {
-    color: #22D4FD;
+    color: #3d9cb9;
 
 }
 .conteudo {
@@ -63,7 +63,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
     font-weight: 600;
-    color: #22D4FD;
+    color: #004d8e;
     text-decoration: none;
 }
 
@@ -96,7 +96,7 @@ body {
     display: flex;
     justify-content: center;
     gap: 16px;
-    border: 2px solid #22D4FD;
+    border: 2px solid #3d9cb9;
     width: 378px;
     padding: 21.5px 0;
     font-size: 24px;
@@ -109,12 +109,12 @@ body {
 }
 
 .index-botao-link:hover {
-    background-color: #272727;
+    background-color: #ff6500;
 }
 
 .rodape {
     color: black;
-    background-color: #22D4FD;
+    background-color: #004d8e;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
