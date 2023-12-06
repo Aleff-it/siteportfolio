@@ -13,7 +13,7 @@ body {
     color: aliceblue;
 }
 .titulo-destaque {
-    color: #3d9cb9;
+    color: #22D4FD;
 
 }
 .conteudo {
@@ -102,7 +102,7 @@ body {
     display: flex;
     justify-content: center;
     gap: 16px;
-    border: 2px solid #3d9cb9;
+    border: 2px solid #22D4FD;
     width: 378px;
     padding: 21.5px 0;
     font-size: 24px;
