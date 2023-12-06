@@ -21,7 +21,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 7px;
+    gap: 20px;
 }
 
 .conteudo-apresentacao {
