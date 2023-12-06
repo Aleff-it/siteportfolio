@@ -9,7 +9,7 @@
 body {
     /* height: 100vh; */
     box-sizing: border-box;
-    background-color: #901900;
+    background-color: #ff6500;
     color: aliceblue;
 }
 .titulo-destaque {
@@ -115,7 +115,7 @@ body {
 }
 
 .index-botao-link:hover {
-    background-color: #ff6500;
+    background-color: #f17a28;
 }
 
 .rodape {
