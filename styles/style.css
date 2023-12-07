@@ -59,19 +59,19 @@ body {
 }
 
 .conteudo-apresentacao-titulo {
-    font-size: 36px;
+    font-size: 2.25rem;
     font-family: var(--font2);
     
 }
 
 .conteudo-apresentacao-titulo2 {
-    font-size: 20px;
+    font-size: 1.50rem;
     font-family: var(--font2);
     
 }
 
 .conteudo-apresentacao-titulo3 {
-    font-size: 16px;
+    font-size: 1rem;
     font-family: var(--font2);
     
 }
@@ -85,7 +85,7 @@ body {
 }
 
 .conteudo-apresentacao-texto {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-family: var(--font1);
 }
 
