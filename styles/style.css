@@ -48,7 +48,7 @@ body {
     background-color: var(--cor3);
     text-align: center;
     font-family: var(--font1);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 400;
     padding: 2% 0% 0% 15%;
 }
@@ -78,7 +78,7 @@ body {
 
 .cabecalho-menu-link {
     font-family: var(--font1);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     color: var(--cor2);
     text-decoration: none;
@@ -105,7 +105,7 @@ body {
 .index-botao-sub {
     font-family: var(--font2);
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 .index-botao-link{
@@ -116,7 +116,7 @@ body {
     border: 2px solid var(--cor4);
     width: 378px;
     padding: 21.5px 0;
-    font-size: 24px;
+    font-size: 1.5rem;
     border-radius: 8px;
     text-align: center;
     text-decoration: none;
