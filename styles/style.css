@@ -141,8 +141,22 @@ body {
 }
 
 @media (max-width: 1200px) {
+    
+    .cabecalho{
+        padding: 5%;
+    }
+
+    .cabecalho-menu{
+        justify-content: center;
+    }
+
     .conteudo{
         flex-direction: column-reverse;
         
     }
+    
+    .conteudo-apresentacao {
+        width: auto;
+    }
+   
 }
