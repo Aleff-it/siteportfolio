@@ -23,17 +23,17 @@ body {
     background-color: var(--cor1);
     color: var(--cor2);
 }
+
 .titulo-destaque {
     color: var(--cor4)
-
 }
+
 .conteudo {
     padding: 5% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 82px;
-    
 }
 
 .conteudo-apresentacao {
@@ -41,7 +41,6 @@ body {
     display: flex;
     flex-direction: column;
     gap: 40px;
-
 }
 
 .cabecalho {
@@ -62,7 +61,6 @@ body {
 .conteudo-apresentacao-titulo {
     font-size: 2.25rem;
     font-family: var(--font2);
-    
 }
 
 .conteudo-apresentacao-titulo2 {
@@ -74,7 +72,6 @@ body {
 .conteudo-apresentacao-titulo3 {
     font-size: 1rem;
     font-family: var(--font2);
-    
 }
 
 .cabecalho-menu-link {
@@ -164,6 +161,5 @@ body {
 
     .index-botao-link {
         width: auto;
-
     }
 }
